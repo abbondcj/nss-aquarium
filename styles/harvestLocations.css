@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://coral.org/wp-content/uploads/2021/09/CoralReef_FrenchPolynesia-1024x681.jpg");
+    background-size: cover;
+}
+
+h1 {
+    background-color: midnightblue;
+    border-radius: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:50px;
+    padding: 20px;
+    text-align: center;
+}
+
+.quotes {
+    background-color: midnightblue;
+    border-radius: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:50px;
+    padding: 20px;
+    text-align: center;
+}
+
+.locationsContainer {
+    background-color: midnightblue;
+    border-radius: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.footer {
+    background-color: slategrey;
+    bottom: 0;
+    color: midnightblue;
+    left: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}

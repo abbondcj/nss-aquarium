@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://coral.org/wp-content/uploads/2021/09/CoralReef_FrenchPolynesia-1024x681.jpg");
+    background-size: cover;
+}
+
+.footer {
+    background-color: slategrey;
+    bottom: 0;
+    color: midnightblue;
+    left: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+
+}
+
+.intro {
+    background-color: midnightblue;
+    border-radius: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 100px 100px;
+    min-width: 700px;
+    padding: 10px;
+    text-align: center;
+}
