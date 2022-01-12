@@ -1,4 +1,4 @@
-body {
+/* body {
     background-image: url("https://coral.org/wp-content/uploads/2021/09/CoralReef_FrenchPolynesia-1024x681.jpg");
     background-size: cover;
 }
@@ -23,7 +23,7 @@ body {
     width: 100%;
 }
 
-.container{
+#container{
     background-color: midnightblue;
     border-radius: 20px;
     display: flex;
@@ -48,4 +48,4 @@ body {
 .fish img {
 width: 100%;
 }
-
+ */
