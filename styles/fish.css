@@ -1,4 +1,4 @@
-/* body {
+body {
     background-image: url("https://coral.org/wp-content/uploads/2021/09/CoralReef_FrenchPolynesia-1024x681.jpg");
     background-size: cover;
 }
@@ -23,20 +23,19 @@
     width: 100%;
 }
 
-#container{
+.fishListContainer{
     background-color: midnightblue;
     border-radius: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-bottom: 50px;
-    margin-top: 30px;
+    margin: 100px;
     padding: 30px;
     row-gap: 20px;
-    width: 90%;
+    width: 80%;
 }
 
-.fish {
+.fishCard {
     border: solid goldenrod 5px;
     border-radius: 5px;
     color: white;
@@ -45,7 +44,7 @@
     width: 30%;
 }
 
-.fish img {
+.fishCard img {
 width: 100%;
 }
- */
+
